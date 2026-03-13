@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Blog App (REST API)
 
 This project is a **REST API for a blogging platform** built with `Node.js`, `Express`, and `MongoDB` (via `mongoose`).  
